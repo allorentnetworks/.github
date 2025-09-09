@@ -1,36 +1,44 @@
-## 👋 Welcome to Allorent Networks!
+# 🌐 Allorent Networks
 
-Allorent Networks offers high-quality, innovative, and enjoyable game server experiences for the Garry's Mod and Rust communities. Crafted with precision, passion, and attention to detail, our servers are designed to deliver exceptional gameplay and community interaction.
+**Allorent Networks** is a development company focused on creating modern digital experiences.  
+We design and maintain:
 
-We host a variety of servers, including custom Garry’s Mod roleplay environments, innovative Rust servers, and specialized community setups. Each server is developed by experienced developers, ensuring balance, performance, and fun!
-
----
-
-### 🎲 Our Servers & Projects
-
-* 🔹 **Garry’s Mod:** Custom roleplay servers with unique mechanics and features.
-* 🔹 **Rust:** Modded servers with specialized gameplay elements and community-driven events.
-
-Stay tuned for announcements on upcoming servers and expansions!
+- 🎮 **Game Servers** — custom environments for Garry’s Mod, Rust, and other titles  
+- 🕹 **Games** — original projects built with performance and player experience in mind  
+- 🤖 **Bots & Integrations** — automation tools for Discord, Telegram, and beyond  
+- 🛒 **Marketplace** — scripts, builds, and digital assets for developers and communities  
+- 💻 **Web Solutions** — websites and platforms for partners with full ongoing support  
 
 ---
 
-### 🌐 Join our community!
+## 🚀 What We Do
 
-🔗 [Visit Our Website](https://)
-
-🔗 [Join Our Discord](https://) *(Coming soon!)*
-
-🔗 [Telegram Channel]() *(Coming soon!)*
-
-🔗 [Follow us on GitHub](https://github.com/AllorentNetworks)
+- Build scalable and optimized game servers with unique mechanics  
+- Develop bots and utilities to simplify community management  
+- Create and distribute custom scripts, mods, and resources  
+- Deliver websites and services that we fully maintain post-launch  
+- Explore and launch our own original projects  
 
 ---
 
-### 🚧 Development Trackers
+## 📡 Connect With Us
 
-Transparency and community feedback are at the core of our development process. Follow our progress, planned features, and ongoing projects on our public GitHub trackers:
+- [Website](https://)  
+- [Discord](https://) *(coming soon)*  
+- [Telegram](https://) *(coming soon)*  
+- [GitHub](https://github.com/AllorentNetworks)  
 
-<img src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/d3a7818c253fcbafff9ebd1d4abb2866c192e1d7/svgs/brands/github.svg" width="20" height="20"> [Garry’s Mod Development Tracker](https://github.com/AllorentNetworks/projects)
+---
 
-<img src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/d3a7818c253fcbafff9ebd1d4abb2866c192e1d7/svgs/brands/github.svg" width="20" height="20"> [Rust Development Tracker](https://github.com/AllorentNetworks/projects)
+## 📌 Development
+
+We keep development transparent and community-driven.  
+Track updates, upcoming features, and active projects on GitHub:
+
+- [Game & Server Projects](https://github.com/AllorentNetworks/projects)  
+- [Web & Services Projects](https://github.com/AllorentNetworks/projects)  
+
+---
+
+### 💡 Allorent Networks  
+A company building servers, services, and tools for the next generation of players and creators.
