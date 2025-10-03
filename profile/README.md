@@ -3,11 +3,11 @@
 **Allorent Networks** is a development company focused on creating modern digital experiences.  
 We design and maintain:
 
-- 🎮 **Game Servers** — custom environments for Garry’s Mod, Rust, and other titles  
-- 🕹 **Games** — original projects built with performance and player experience in mind  
-- 🤖 **Bots & Integrations** — automation tools for Discord, Telegram, and beyond  
-- 🛒 **Marketplace** — scripts, builds, and digital assets for developers and communities  
-- 💻 **Web Solutions** — websites and platforms for partners with full ongoing support  
+- 🎮 **Game Servers** - custom environments for Garry’s Mod, Rust, and other titles  
+- 🕹 **Games** - original projects built with performance and player experience in mind  
+- 🤖 **Bots & Integrations** - automation tools for Discord, Telegram, and beyond  
+- 🛒 **Marketplace** - scripts, builds, and digital assets for developers and communities  
+- 💻 **Web Solutions** - websites and platforms for partners with full ongoing support  
 
 ---
 
